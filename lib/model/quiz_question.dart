@@ -20,7 +20,7 @@ class QuizQuestion{
       'A':'30KMPH','B':'45 KMPH', 'C':'50 KMPH','D':'10 KMPH','E':'12 KMPH'},
     {'question':'How big brain eagles have ','A':'Very big','B':'Small',
       'C':'big','D':'quite small','E':'large'},
-    {'question':'How many species eagle are there?','A':'59','B':'90',
+    {'question':'How many species eagle are there?','A':'500','B':'90',
       'C':'15','D':'10','E':'500'},
   ];
   static List swam_questions = [
@@ -65,11 +65,11 @@ class QuizQuestion{
     {'question':'Alex born in','A':' Arabian','B':'Africa',
       'C':'India','D':'None','E':'America'},
     {'question':'Alex born in year','A':'1890','B':'2020',
-      'C':'1976','D':'1500','E':'1400'},
+      'C':'1976','D':'1400','E':'1400'},
   ];
   static List sparrow_questions = [
     {'question':'How many genero of sparrow exist?','A':'9','B':'6',
-      'C':'8','D':'10','E':'5'},
+      'C':'5','D':'10','E':'5'},
     {'question':'how many species of sparrow are there','A':'26','B':'28',
       'C':'40','D':'24','E':'43'},
     {'question':'What is the size of sparrow?',
